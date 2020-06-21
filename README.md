@@ -1,3 +1,4 @@
 # Recommendation-Engine
 Build your own Recommendation Engine using Word2vec Model
-read on capablemachine.wordpress.com
+
+For data visit my blogging website - https://capablemachine.wordpress.com/
