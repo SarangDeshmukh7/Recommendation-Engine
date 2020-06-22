@@ -3,8 +3,6 @@ Build your own Recommendation Engine using Word2vec Model
 
 For data and explanation of code, visit to my blogging website - https://capablemachine.wordpress.com/
 
-### Blog: Method 1 
-https://capablemachine.wordpress.com/2020/06/20/coding-implementation-of-recommendation-engine/
+### Blog: 
+https://capablemachine.wordpress.com/2020/05/31/build-your-own-recommendation-engine-using-word2vec-model/
 
-### Blog: Method 2  
-https://capablemachine.wordpress.com/2020/06/21/coding-implementation-of-recommendation-engine-method-2/
