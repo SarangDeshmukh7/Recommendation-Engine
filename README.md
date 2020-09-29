@@ -1,4 +1,5 @@
 # Recommendation-Engine
+<img src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/06/image-17.png?w=750&ssl=1"/>
 Build your own Recommendation Engine using Word2vec Model
 
 <img
