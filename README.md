@@ -1,4 +1,13 @@
 # Recommendation-Engine
+
+### Steps -
+
+- Step 1 – Data Preparation
+- Step 2 – Model Building
+- Step 3 – Implementation
+
+
+
 <img src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/06/image-17.png?w=750&ssl=1"/>
 
 
