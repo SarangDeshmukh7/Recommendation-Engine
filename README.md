@@ -16,7 +16,7 @@
 Content-based Filtering works on the principle that people who agreed in the past will agree in the future, means based on user’s previous preferences it recommends the product.
 
 <img
-src = "https://i2.wp.com/capablemachine.com/wp-content/uploads/2020/05/image-109.png?w=750&ssl=1" width="500" height="500" />
+src = "https://i2.wp.com/capablemachine.com/wp-content/uploads/2020/05/image-109.png?w=750&ssl=1" />
 
 ## Collaborative Filtering
 
