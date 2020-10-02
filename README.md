@@ -2,9 +2,9 @@
 
 ### Steps -
 
-- Step 1 – Data Preparation
-- Step 2 – Model Building
-- Step 3 – Implementation
+- <code>Step 1 – Data Preparation</code>
+- <code>Step 2 – Model Building</code>
+- <code>Step 3 – Implementation</code>
 
 
 
