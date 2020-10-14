@@ -2,6 +2,12 @@
 
 <img src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/06/image-17.png?w=750&ssl=1"/>
 
+## Type of Data:
+- There are 17770 unique movie IDs.
+- There are 480189 unique user IDs.
+- There are ratings. Ratings are on a five star (integral) scale from 1 to 5.
+- There is a date on which the movie is watched by the user in the format YYYY-MM-DD.
+
 
 ## Content-based Filtering
 
