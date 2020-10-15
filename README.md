@@ -1,4 +1,4 @@
-# Recommendation Engine using word2vec
+# Recommendation Engine 
 
 <img src = "https://i0.wp.com/capablemachine.com/wp-content/uploads/2020/06/image-17.png?w=750&ssl=1"/>
 
